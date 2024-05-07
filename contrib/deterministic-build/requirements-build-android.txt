@@ -52,7 +52,7 @@ importlib-metadata==4.0.1 \
 importlib-resources==5.1.2 \
     --hash=sha256:642586fc4740bd1cad7690f836b3321309402b20b332529f25617ff18e8e1370 \
     --hash=sha256:ebab3efe74d83b04d6bf5cd9a17f0c5c93e60fb60f30c90f56265fce4682a469
-Jinja2==2.11.3 \
+Jinja2==3.1.4 \
     --hash=sha256:03e47ad063331dd6a3f04a43eddca8a966a26ba0c5b7207a9a9e4e08f1b29419 \
     --hash=sha256:a6d58433de0ae800347cab1fa3043cebbabe8baa9d29e668f1c768cb87a333c6
 MarkupSafe==1.1.1 \
